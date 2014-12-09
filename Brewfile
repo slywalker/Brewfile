@@ -4,6 +4,27 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install alfred
+cask install appcleaner
+cask install bartender
+cask install caffeine
+cask install chefdk
+cask install codekit
+cask install dash
+cask install dropbox
+cask install google-chrome
+cask install google-japanese-ime
+cask install iterm2
+cask install launchrocket
+cask install qlmarkdown
+cask install skype
+cask install sourcetree
+cask install the-unarchiver
+cask install totalterminal
+cask install vagrant-manager
+cask install vagrant
+cask install virtualbox
+cask install xtrafinder
 
 ## homebrew/binary
 tap homebrew/binary
@@ -42,7 +63,6 @@ install cgal
 install cmake
 install freetype
 install freexl
-install gdal
 install geos
 install gettext
 install giflib
@@ -78,7 +98,6 @@ install ossp-uuid
 install pcre
 install pkg-config
 install plantuml
-install postgis
 install postgresql
 install proj
 install readline
@@ -119,24 +138,3 @@ appstore The Unarchiver
 appstore Twitter
 appstore Xcode
 appstore YoruFukurou
-
-cask alfred
-cask appcleaner
-cask bartender
-cask caffeine
-cask codekit
-cask dash
-cask dropbox
-cask google-chrome
-cask google-japanese-ime
-cask iterm2
-cask launchrocket
-cask qlmarkdown
-cask skype
-cask sourcetree
-cask the-unarchiver
-cask totalterminal
-cask vagrant
-cask vagrant-manager
-cask virtualbox
-cask xtrafinder
