@@ -119,3 +119,24 @@ appstore The Unarchiver
 appstore Twitter
 appstore Xcode
 appstore YoruFukurou
+
+cask alfred
+cask appcleaner
+cask bartender
+cask caffeine
+cask codekit
+cask dash
+cask dropbox
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
+cask launchrocket
+cask qlmarkdown
+cask skype
+cask sourcetree
+cask the-unarchiver
+cask totalterminal
+cask vagrant
+cask vagrant-manager
+cask virtualbox
+cask xtrafinder
