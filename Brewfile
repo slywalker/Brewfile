@@ -36,7 +36,6 @@ install zlib
 
 ## homebrew/php
 tap homebrew/php
-install box
 install composer
 install php55-mcrypt
 install php55-memcache
