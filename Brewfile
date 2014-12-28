@@ -26,6 +26,8 @@ cask install vagrant
 cask install virtualbox
 cask install xtrafinder
 
+cask alfred link
+
 ## homebrew/binary
 tap homebrew/binary
 
