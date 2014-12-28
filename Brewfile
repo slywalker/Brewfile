@@ -36,12 +36,12 @@ install zlib
 
 ## homebrew/php
 tap homebrew/php
-install composer
 install php55-mcrypt
 install php55-memcache
 install php55-memcached
 install php55-xdebug
 install php55 --with-fpm --with-pgsql
+install composer
 
 ## homebrew/versions
 tap homebrew/versions
@@ -67,6 +67,7 @@ install scala
 install terminal-notifier
 install tig
 install tree
+install vim
 install wget
 
 # App Store applications
