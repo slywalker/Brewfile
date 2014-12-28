@@ -26,8 +26,6 @@ cask install vagrant
 cask install virtualbox
 cask install xtrafinder
 
-cask alfred link
-
 ## homebrew/binary
 tap homebrew/binary
 
@@ -38,12 +36,12 @@ install zlib
 
 ## homebrew/php
 tap homebrew/php
+install composer
 install php55-mcrypt
 install php55-memcache
 install php55-memcached
 install php55-xdebug
-install php55 --with-fpm --with-pgsql
-install composer
+install php55
 
 ## homebrew/versions
 tap homebrew/versions
@@ -53,22 +51,40 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install autoconf
 install autojump
 install beanstalk
+install bison
 install brew-gem
+install freetype
+install gettext
 install git
+install graphviz
+install icu4c
+install jpeg
 install jq
+install libevent
+install libmemcached
+install libpng
+install libtool
+install libyaml
+install mcrypt
 install memcached
+install mhash
 install mysql
 install nginx
 install node
+install openssl
+install pcre
 install plantuml
 install postgresql
+install readline
 install ruby
 install scala
 install terminal-notifier
 install tig
 install tree
+install unixodbc
 install vim
 install wget
 
@@ -79,7 +95,6 @@ appstore Byword
 appstore ClamXav
 appstore Evernote
 appstore Fantastical
-appstore FreeMan
 appstore iBooks Author
 appstore ImageExifViewer
 appstore iMovie
@@ -87,6 +102,7 @@ appstore iPhoto
 appstore Keynote
 appstore LINE
 appstore Marked
+appstore Memory Diag
 appstore Numbers
 appstore OmniGraffle Professional
 appstore Pages
