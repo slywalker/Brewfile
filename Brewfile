@@ -102,7 +102,6 @@ appstore iPhoto
 appstore Keynote
 appstore LINE
 appstore Marked
-appstore Memory Diag
 appstore Numbers
 appstore OmniGraffle Professional
 appstore Pages
