@@ -14,6 +14,7 @@ cask install dash
 cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
+cask install hipchat
 cask install iterm2
 cask install launchrocket
 cask install qlmarkdown
