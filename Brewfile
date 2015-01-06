@@ -19,6 +19,7 @@ cask install iterm2
 cask install launchrocket
 cask install qlmarkdown
 cask install skype
+cask install slack
 cask install sourcetree
 cask install the-unarchiver
 cask install totalterminal
@@ -38,11 +39,12 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
-install php55-mcrypt
-install php55-memcache
-install php55-memcached
-install php55-xdebug
-install php55
+install php56-mcrypt
+install php56-memcache
+install php56-memcached
+install php56-xdebug
+install php56 --with-fpm
+install php56-pdo-pgsql
 
 ## homebrew/versions
 tap homebrew/versions
