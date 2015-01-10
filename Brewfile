@@ -3,6 +3,7 @@
 
 ## caskroom/cask
 tap caskroom/cask
+tap caskroom/homebrew-versions
 install brew-cask
 cask install alfred
 cask install appcleaner
@@ -21,6 +22,7 @@ cask install qlmarkdown
 cask install skype
 cask install slack
 cask install sourcetree
+cask install sublime-text3
 cask install the-unarchiver
 cask install totalterminal
 cask install vagrant-manager
