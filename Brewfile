@@ -3,7 +3,6 @@
 
 ## caskroom/cask
 tap caskroom/cask
-tap caskroom/homebrew-versions
 install brew-cask
 cask install alfred
 cask install appcleaner
@@ -22,13 +21,16 @@ cask install qlmarkdown
 cask install skype
 cask install slack
 cask install sourcetree
-cask install sublime-text3
 cask install the-unarchiver
 cask install totalterminal
 cask install vagrant-manager
 cask install vagrant
 cask install virtualbox
 cask install xtrafinder
+
+## caskroom/versions
+tap caskroom/versions
+cask install sublime-text3
 
 ## homebrew/binary
 tap homebrew/binary
@@ -41,12 +43,13 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
+install php55-xdebug
 install php56-mcrypt
 install php56-memcache
 install php56-memcached
-install php56-xdebug
-install php56 --with-fpm
 install php56-pdo-pgsql
+install php56-xdebug
+install php56
 
 ## homebrew/versions
 tap homebrew/versions
@@ -97,11 +100,9 @@ install wget
 appstore 1Password
 appstore App Language Chooser
 appstore Byword
-appstore ClamXav
 appstore Evernote
 appstore Fantastical
 appstore iBooks Author
-appstore ImageExifViewer
 appstore iMovie
 appstore iPhoto
 appstore Keynote
@@ -111,9 +112,7 @@ appstore Numbers
 appstore OmniGraffle Professional
 appstore Pages
 appstore Pixelmator
-appstore Remote Desktop
 appstore Skitch
-appstore SmartConverter
 appstore The Unarchiver
 appstore Twitter
 appstore Xcode
