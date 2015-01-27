@@ -48,8 +48,13 @@ install php56-mcrypt
 install php56-memcache
 install php56-memcached
 install php56-pdo-pgsql
+install php56-stats
 install php56-xdebug
 install php56
+
+## homebrew/science
+tap homebrew/science
+install fann
 
 ## homebrew/versions
 tap homebrew/versions
@@ -64,6 +69,7 @@ install autojump
 install beanstalk
 install bison
 install brew-gem
+install cmake
 install freetype
 install gettext
 install git
@@ -95,6 +101,7 @@ install tree
 install unixodbc
 install vim
 install wget
+install xz
 
 # App Store applications
 appstore 1Password
