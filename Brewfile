@@ -44,6 +44,7 @@ install zlib
 tap homebrew/php
 install composer
 install php55-xdebug
+install php55
 install php56-mcrypt
 install php56-memcache
 install php56-memcached
